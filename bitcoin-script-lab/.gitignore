@@ -1,0 +1,15 @@
+# Local secrets and generated wallet state
+.secrets/
+wallet.json
+**/wallet.json
+
+# Python environments and caches
+.venv/
+**/.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Report and packaging outputs
+report/Report.pdf
+*.zip
